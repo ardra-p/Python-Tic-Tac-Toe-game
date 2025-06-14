@@ -24,6 +24,7 @@ TicTacToe/
 ├── move.py # Handles move validation and positions
 ├── player.py # Human and computer player logic
 ├── README.md # Project documentation
+
 ---
 
 ## ▶️ Run the Game
