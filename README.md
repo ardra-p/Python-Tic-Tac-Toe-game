@@ -17,3 +17,11 @@ This is a simple **Tic-Tac-Toe game** built using **Object-Oriented Programming 
 ---
 
 
+## ▶️ Run the Game
+
+Make sure you're inside the folder, then run:
+
+```bash
+python game.py
+
+
