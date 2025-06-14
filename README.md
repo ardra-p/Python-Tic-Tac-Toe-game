@@ -15,7 +15,16 @@ This is a simple **Tic-Tac-Toe game** built using **Object-Oriented Programming 
 - Clean and readable code structure
 
 ---
+## 📁 Project Structure
 
+TicTacToe/
+│
+├── board.py # Board logic (printing, checking win/tie)
+├── game.py # Game controller and main loop
+├── move.py # Handles move validation and positions
+├── player.py # Human and computer player logic
+├── README.md # Project documentation
+---
 
 ## ▶️ Run the Game
 
