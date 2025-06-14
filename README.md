@@ -18,6 +18,7 @@ This is a simple **Tic-Tac-Toe game** built using **Object-Oriented Programming 
 ## 📁 Project Structure
 
 TicTacToe/
+
 │
 ├── board.py # Board logic (printing, checking win/tie)
 
